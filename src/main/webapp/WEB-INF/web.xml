@@ -4,9 +4,9 @@
 	<welcome-file-list>
 <<<<<<< HEAD
 =======
-		<welcome-file>index.html</welcome-file>
 >>>>>>> 302b8a92a1f35dbbc74f190811474811361cef45
-		<welcome-file>index1.jsp</welcome-file>
+		<welcome-file>index1.html</welcome-file>
+		<welcome-file>index.jsp</welcome-file>
 		<welcome-file>default.html</welcome-file>
 		<welcome-file>default.htm</welcome-file>
 		<welcome-file>default.jsp</welcome-file>
