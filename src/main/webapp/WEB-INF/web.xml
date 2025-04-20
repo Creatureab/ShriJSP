@@ -2,9 +2,6 @@
 <web-app id="WebApp_ID" version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
 	<display-name>WebAppJSP</display-name>
 	<welcome-file-list>
-<<<<<<< HEAD
-=======
->>>>>>> 302b8a92a1f35dbbc74f190811474811361cef45
 		<welcome-file>index1.html</welcome-file>
 		<welcome-file>index.jsp</welcome-file>
 		<welcome-file>default.html</welcome-file>
